@@ -18,6 +18,7 @@ A comparative study of regression techniques to predict continuous target.
   * Linear Regression,
   * Ridge Regression.
 * **Key Focus:**
+  * Data analysis and preprocessing
   * Hyperparameter tuning
   * Final model validation of unseen evaluation data
 
