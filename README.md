@@ -1,7 +1,7 @@
 # Machine Learning 1 - Fundamentals & Ensemble Models
 
 This repository contains two comprehensive project developed for **Machine Learning 1** course (BI-ML1) at **FIT CTU in Prague**.\
-This projects cover full ML pipeline:
+This project covers full ML pipeline:
 - Exploratory Analysis
 - Data Preprocessing
 - Models Training and Selection
