@@ -48,4 +48,4 @@ pip install -r requiremets.txt
 
 ## 📈 Technologies Used
 - **Language:** Python + Jupyter Notebook
-- **Libraries:** Scikit-learn, Pandas, Numpy, Matplotlib, Scipy
+- **Libraries:** Scikit-learn, Pandas, Numpy, Matplotlib
